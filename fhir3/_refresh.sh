@@ -2,8 +2,8 @@
 #DO NOT EDIT WITH WINDOWS
 tooling_jar=tooling-1.3.1-SNAPSHOT-jar-with-dependencies.jar
 input_cache_path=$PWD/input-cache
-ig_path=./input/connectathon.xml
-resources_path=./input/resources
+ig_path=input/connectathon.xml
+resources_path=input/resources
 root_dir=$PWD
 #measure_to_refresh_path=$PWD/input/resources/measure/measure-EXM104-8.2.000.json
 
