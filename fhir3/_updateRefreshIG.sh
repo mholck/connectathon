@@ -9,6 +9,9 @@ v=1.3.1-SNAPSHOT
 c=jar-with-dependencies
 
 dlurl='https://oss.sonatype.org/service/local/artifact/maven/redirect?r='${r}'&g='${g}'&a='${a}'&v='${v}'&c='${c}''
+
+echo ${dlurl}
+
 input_cache_path=./input-cache/
 tooling_jar=tooling-1.3.1-SNAPSHOT-jar-with-dependencies.jar
 
